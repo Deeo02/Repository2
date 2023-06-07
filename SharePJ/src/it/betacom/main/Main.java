@@ -6,6 +6,7 @@ public class Main {
 		System.out.println("Start ");
 		System.out.println("Fase 1");
 		System.out.println("Fase 2");
+		System.out.println("Fase 3");
 	}
 
 }
